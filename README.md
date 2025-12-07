@@ -424,6 +424,7 @@ Once you've mastered blinking multiple LEDs in sequence, you're ready for:
 <br>
 
 # ⭐ DAY001: The First Blink [HERE](https://github.com/mytechnotalent/ERP2-DAY001)
+# ⭐ DAY003: Traffic Light Simulation [HERE](https://github.com/mytechnotalent/ERP2-DAY003)
 
 <br>
 
