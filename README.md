@@ -208,14 +208,11 @@ impl LedSequenceController {
 #[embassy_executor::main]
 async fn main(_spawner: Spawner) {
     let p = embassy_rp::init(Default::default());
-    
     let mut led0 = Output::new(p.PIN_16, Level::Low);
     let mut led1 = Output::new(p.PIN_17, Level::Low);
     let mut led2 = Output::new(p.PIN_18, Level::Low);
     let mut led3 = Output::new(p.PIN_19, Level::Low);
-    
     let mut controller = LedSequenceController::new();
-    
     loop {
         // Update all LEDs based on current sequence position
         // ... set_high/set_low based on controller.led_state(n)
