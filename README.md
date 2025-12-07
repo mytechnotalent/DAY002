@@ -1,5 +1,3 @@
-<img src="https://github.com/mytechnotalent/DAY002/blob/main/DAY002.png?raw=true">
-
 ## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
 ---
