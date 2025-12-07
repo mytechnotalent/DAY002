@@ -422,7 +422,7 @@ pub fn led_state(&self, index: usize) -> LedState {
 <br>
 
 # ⭐ DAY001: The First Blink [HERE](https://github.com/mytechnotalent/ERP2-DAY001)
-# ⭐ DAY003: Traffic Light Simulation [HERE](https://github.com/mytechnotalent/ERP2-DAY003)
+# ⭐ DAY003: Traffic Light Sim [HERE](https://github.com/mytechnotalent/ERP2-DAY003)
 
 <br>
 
