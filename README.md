@@ -421,11 +421,9 @@ Once you've mastered blinking multiple LEDs in sequence, you're ready for:
 
 **Congratulations!** 🎉 You've completed the second Embassy Rust project on the Pico 2. You now understand how to control multiple GPIO outputs and create sequential patterns. These skills will be essential for many future projects including the Knight Rider effect, traffic lights, and LED games.
 
-*"A journey of 365 projects begins with a single blink... and continues with a sequence."* 🦀
-
 <br>
 
-**Project Status**: ⭐ Beginner | **Estimated Time**: 45-75 minutes | **Success Rate**: 98%
+# ⭐ DAY001: The First Blink [HERE](https://github.com/mytechnotalent/ERP2-DAY001)
 
 <br>
 
